@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#eff6ee;
+    text-align: center;
+}
+
+
+.game{
+    height:300px;
+    width:500px;
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    margin-left: 450px;
+    gap:10px;
+
+    
+    
+    
+
+}
+#one{
+    height:150px;
+    width: 150px;
+    
+    font-size: 100px;
+    color: #de639a;
+    background-color: #22333b;
+    border-radius: 20px;
+    border:10px solid #22333b;
+}
+#two{
+    height:150px;
+    width: 150px;
+    font-size: 100px;
+    color: #de639a;
+    background-color: #22333b;
+    border-radius: 20px;
+    border:10px solid #22333b;
+}
+#three{
+    height:150px;
+    width: 150px;
+    font-size: 100px;
+    color: #de639a;
+    background-color: #22333b;
+    border-radius: 20px;
+    border:10px solid #22333b;
+}
+#four
+{
+    height:150px;
+    width: 150px;
+    font-size: 100px;
+    color: #de639a;
+    background-color: #22333b;
+    border-radius: 20px;
+    border:10px solid #22333b;
+}
+#five{
+    height:150px;
+    width: 150px;
+    font-size: 100px;
+    color: #de639a;
+    background-color: #22333b;
+    border-radius: 20px;
+    border:10px solid #22333b;
+
+}
+
+#six{
+    height:150px;
+    width: 150px;
+    font-size: 100px;
+    color: #de639a;
+    background-color: #22333b;
+    border-radius: 20px;
+    border:10px solid #22333b;
+}
+#seven{
+    height:150px;
+    width: 150px;
+    font-size: 100px;
+    color: #de639a;
+    background-color: #22333b;
+    border-radius: 20px;
+    border:10px solid #22333b;
+}
+#eight{
+    height:150px;
+    width: 150px;
+    font-size: 100px;
+    color: #de639a;
+    background-color: #22333b;
+    border-radius: 20px;
+    border:10px solid #22333b;
+}
+#nine{
+    height:150px;
+    width: 150px;
+    font-size: 100px;
+    color: #de639a;
+    background-color: #22333b;
+    border-radius: 20px;
+    border:10px solid #22333b;
+}
+#msg{
+  font-size:50px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: chocolate;
+}
+#newgame{
+    height: 40px;
+    width:100px;
+    margin-top: 40px;
+    background-color: #22333b;
+    color:white;
+    border-radius: 5px;
+    
+    border:10px solid #22333b;
+}
+#reset{
+    height: 40px;
+    width:100px;
+    margin-top: 40px;
+    background-color: #22333b;
+    color:white;
+    border-radius: 5px;
+    
+    border:10px solid #22333b;
+    margin-left: 30px;;
+}
